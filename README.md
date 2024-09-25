@@ -1,2 +1,2 @@
 # class_db
-A simple database made in C to teach students
+A simple skeleton code in C for a database
